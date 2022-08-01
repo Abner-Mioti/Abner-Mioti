@@ -1,8 +1,9 @@
 <h1 align="center"> Abner Mioti</h1>
 
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/abner-manha-3b2502138/) 
+### Olá esse é meu perfil onde posto minhas mais variadas atividades de Programação!!!
 
 ## Sobre
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/abner-manha-3b2502138/) 
 * Meu nome é Abner;
 * Moro em Jardinópolis - SP;
 * E as linguagens que mais estudei foram: JavaScript e C#;
