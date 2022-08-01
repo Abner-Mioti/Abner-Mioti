@@ -1,6 +1,12 @@
-<h1 align="center"> Abner Manha</h1>
+<h1 align="center"> Abner Mioti</h1>
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/abner-manha-3b2502138/) 
+
+## Sobre
+* Meu nome é Abner;
+* Moro em Jardinópolis - SP;
+* E as linguagens que mais estudei foram: JavaScript e C#;
+* Experiencia com projetos e metodologias ágeis.
 
 
 <div align="center">
