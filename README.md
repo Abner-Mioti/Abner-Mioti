@@ -1,5 +1,7 @@
 <h1 align="center"> Abner Manha</h1>
 
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/abner-manha-3b2502138/) 
+
 
 <div align="center">
   <a href="https://github.com/Abner-Mioti">
