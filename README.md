@@ -34,7 +34,7 @@ Tenho experiência prática com C#, .NET, AngularJS e SQL Server, e também gost
 ---
 
 ## 📫 Como me encontrar
-- 💼 LinkedIn: [linkedin.com/in/abner-mioti](https://linkedin.com/in/abner-mioti](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/abner-manha-3b2502138/))  
+- 💼 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/abner-manha-3b2502138/) 
 - 📧 Email: awmmanha@hotmail.com  
 
 ---
